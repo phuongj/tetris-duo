@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Course Project Tetris</string>
+
+    <!--> Main menu strings <-->
+    <string name="title_top_label">TETRIS</string>
+    <string name="title_bottom_label">duo</string>
+    <string name="play_button_label">Play</string>
+    <string name="score_button_label">Score</string>
+    <string name="instructions_button_label">Instructions</string>
+    <string name="account_sign_in_button_label">Sign In</string>
+    <string name="account_sign_out_button_label">Sign Out</string>
+
+    <!--> Play game activity strings <-->
+    <string name="play_again_button_label">Play Again</string>
+    <string name="main_menu_button_label">Main Menu</string>
+    <string name="pause_game_button_label">Pause</string>
+    <string name="unpause_game_button_label">Resume</string>
+    <string name="score_label">Score</string>
+
+    <!--> Score screen activity strings <-->
+    <string name="score_text_label">Scores</string>
+    <string name="logged_out_text_label">Please log in to save scores.</string>
+
+    <!--> Instructions activity strings <-->
+    <string name="instructions_label">Instructions</string>
+    <string name="instructions_one"> 1) A random block will appear in the center and start dropping.</string>
+    <string name="instructions_two"> 2) The direction the block drops will switch every turn.</string>
+    <string name="instructions_three"> 3) Swipe left and right to move the block.</string>
+    <string name="instructions_four"> 4) Tap on the falling block to rotate it.</string>
+    <string name="instructions_five"> 5) Long press to increase the falling speed and release to
+        return it to normal.</string>
+    <string name="instructions_six"> 6) Double tap to drop the block instantly.</string>
+    <string name="instructions_seven"> 7) Fill in a row to score points.</string>
+    <string name="instructions_eight"> 8) If a block reaches the center rows, the game ends.</string>
+</resources>

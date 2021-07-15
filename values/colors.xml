@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="background">#333333</color>
+    <color name="title">#e60000</color>
+    <color name="text">#fbfbfb</color>
+    <color name="boardBackground">#bfbfbf</color>
+    <color name="boarderBackground">#808080</color>
+    <color name="grid">#f2f2f2</color>
+
+    <!--> Block colors <-->
+    <color name="oBlock">#eff103</color>
+    <color name="iBlock">#01f0f1</color>
+    <color name="tBlock">#a001ef</color>
+    <color name="lBlock">#efa000</color>
+    <color name="jBlock">#0200f0</color>
+    <color name="sBlock">#00f000</color>
+    <color name="zBlock">#f00100</color>
+
+</resources>
